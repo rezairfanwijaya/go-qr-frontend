@@ -19,7 +19,7 @@ const Hero = () => {
                     </p>
                 </div>
 
-                <a href="">
+                <a href="#generator-qr">
                     <div className="start shadow-md bg-orange hover:bg-green w-max py-1 px-7 text-white rounded-sm lg:py-2 lg:px-8 xl:py-2 xl:px-10">
                         <p className='lg:text-md xl:text-xl'>Start</p>
                     </div>

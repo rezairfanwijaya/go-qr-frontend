@@ -2,7 +2,7 @@ import logo from '../assets/image/logo.png'
 
 const Navbar = () => {
     return (<>
-        <div className="navbar flex justify-between py-2">
+        <div className="navbar flex justify-between py-2" data-aos="fade-down">
 
             <div className="left">
                 <a href="/">

@@ -16,7 +16,7 @@ const GeneratorQr = () => {
 
 
     // hit endpoint
-    if (inputUser != '') {
+    if (inputUser !== '') {
         fetch(URL, {
             method: 'POST',
             body: JSON.stringify(bodyRequest)

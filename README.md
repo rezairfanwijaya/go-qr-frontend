@@ -26,8 +26,14 @@ Ini merupakan repo frontend dari aplikasi GO QR. Agar berjalan dengan baik, anda
 ```bash
   npm start
 ```
+#### aplikasi berjalan pada ```http://localhost:3000/```
 
 Pastikan sebelum melakukan perintah ```npm start``` anda telah melakukan setup dan run aplikasi backend. Untuk setup dan run aplikasi backend dapat dilihat pada [setting backend](https://github.com/rezairfanwijaya/go-qr-backend)
+
+
+
+![image](https://user-images.githubusercontent.com/87264553/211034848-de445baa-b7c3-4f5c-a58d-0ce871114a6a.png)
+
 
 
 
